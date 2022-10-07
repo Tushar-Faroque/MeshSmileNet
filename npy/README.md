@@ -1,0 +1,2 @@
+# Download the landmarks and place them here for UVA-NEMO datasets (.npy files): 
+https://northsouth0-my.sharepoint.com/:f:/g/personal/tahrim_tushar_northsouth_edu/Erwz75ncCJlPsyizYPQFmzsBJplHoC7vJC2u0xMo8D1sNw?e=6IkrhA
